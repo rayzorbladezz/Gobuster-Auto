@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eu
 
-URL=$1
+URL=$
 
 export GOROOT=/usr/lib/go
 export GOPATH=/opt/go/gobuster
